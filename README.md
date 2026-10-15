@@ -35,5 +35,3 @@
   &nbsp;·&nbsp;
   <a href="https://www.instagram.com/cyb3r.paulson/"><b>Instagram</b></a>
 </p>
-
-<sub>Fonts: Unbounded and JetBrains Mono (SIL OFL 1.1). Icons: Simple Icons (CC0), official Zeek, YARA and XGBoost marks, and the LinkedIn mark via Devicon (MIT). Details in <a href="assets/LICENSES/ICONS.md">assets/LICENSES</a>.</sub>
