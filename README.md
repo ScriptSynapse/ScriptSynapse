@@ -31,5 +31,3 @@
 - **GitHub:** [github.com/ScriptSynapse](https://github.com/ScriptSynapse)
 - **LinkedIn:** [Paulson Alex Fernandes](https://www.linkedin.com/in/paulson-alex-fernandes-754710378)
 - **Portfolio:** [portfolio.paulsonfernandes.tech](https://portfolio.paulsonfernandes.tech)
-
-> YouTube, Instagram and Topmate links are omitted because no URLs were supplied. No follower counts, contribution totals, repository metrics or other unverified statistics are shown.
