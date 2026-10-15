@@ -1,33 +1,39 @@
-<div align="center">
+<p align="center">
+  <img src="assets/hero.svg?v=1" width="100%" alt="Paulson Alex Fernandes — Cybersecurity Analyst, SOC Analyst, DFIR Analyst and AI/ML Security Developer, based in Pune, Maharashtra, India, at MIT World Peace University" />
+</p>
 
-# PAULSON ALEX FERNANDES
+<p align="center">
+  <img src="assets/about-life.svg?v=1" width="100%" alt="Capabilities: threat detection, digital forensics, malware analysis, security automation, AI/ML security and network security. Interests: cyber defence, digital forensics, AI × security." />
+</p>
 
-**Cybersecurity · Digital Forensics · AI/ML Security**
+<p align="center">
+  <img src="assets/stack.svg?v=1" width="100%" alt="Tech stack. Languages: Python, C, JavaScript, SQL. Security tools: Wireshark, Splunk, Zeek, Sysmon, YARA. AI/ML: scikit-learn, XGBoost, Random Forest. Platforms: Linux, Git, Flask, MySQL." />
+</p>
 
-*I build security tools that turn complex technical data into actionable insight.*
+<p align="center">
+  <img src="assets/id-dashboard.svg?v=1" width="100%" alt="Demo lanyard ID card and a GitHub snapshot retrieved 15 Oct 2026: 22 public repositories, 0 stars, 0 forks; Python is the most common primary language." />
+</p>
 
-<img src="assets/hero.svg?v=1" alt="Animated hero introduction" width="100%" />
+## Featured projects
 
-<img src="assets/about-life.svg?v=1" alt="About, capabilities and rotating interests" width="100%" />
+| Project | What it does | Stack | Last push |
+|---|---|---|---|
+| [**AI Malware Detector**](https://github.com/ScriptSynapse/AI-Malware-Detector) | Machine-learning malware detection using static PE file analysis, combining YARA rules with explainable ML scoring, without executing samples. | Python · Flask · MySQL · YARA · Random Forest · XGBoost · Docker | 13 Oct 2026 |
+| [**HoneyWatch**](https://github.com/ScriptSynapse/HoneyWatch-SSH-Threat-Intelligence-Honeypot) | SSH threat-intelligence honeypot that records attacker sessions, enriches them with GeoIP and abuse-reputation data, and surfaces them on a dashboard. | Python · aiohttp · SQLite · ReportLab | 05 Sep 2026 |
+| [**Forge-X**](https://github.com/ScriptSynapse/Forge-X) | Digital forensics platform for case management, evidence integrity (SHA-256) and chain-of-custody workflows. | Python · Flask · MySQL · Bootstrap · Chart.js | 10 Oct 2026 |
 
-<img src="assets/stack.svg?v=1" alt="Technology stack orbit diagram" width="100%" />
+<p align="center">
+  <img src="assets/connect.svg?v=1" width="100%" alt="Let's connect: LinkedIn, GitHub, portfolio and Instagram links, listed below." />
+</p>
 
-<img src="assets/id-dashboard.svg?v=1" alt="Animated hanging profile ID card" width="100%" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulson-alex-fernandes-754710378"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ScriptSynapse"><b>GitHub</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio.paulsonfernandes.tech"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/cyb3r.paulson/"><b>Instagram</b></a>
+</p>
 
-<img src="assets/connect.svg?v=1" alt="Pointing portrait and contact cards" width="100%" />
-
-</div>
-
-## Selected projects
-
-| Project | What it does | Repository |
-|---|---|---|
-| **AI Malware Detector** | Machine-learning-assisted static PE analysis for classifying potentially malicious Windows executables. | [View repository](https://github.com/ScriptSynapse/AI-Malware-Detector) |
-| **HoneyWatch** | SSH honeypot telemetry and attacker-session analysis for defensive threat intelligence. | [View repository](https://github.com/ScriptSynapse/HoneyWatch-SSH-Threat-Intelligence-Honeypot) |
-| **Forge-X** | Digital forensics project focused on case workflows, evidence integrity and chain-of-custody tracking. | [View repository](https://github.com/ScriptSynapse/Forge-X) |
-
-## Connect
-
-- **GitHub:** [github.com/ScriptSynapse](https://github.com/ScriptSynapse)
-- **LinkedIn:** [Paulson Alex Fernandes](https://www.linkedin.com/in/paulson-alex-fernandes-754710378)
-- **Portfolio:** [portfolio.paulsonfernandes.tech](https://portfolio.paulsonfernandes.tech)
+<sub>Fonts: Unbounded and JetBrains Mono (SIL OFL 1.1). Icons: Simple Icons (CC0), official Zeek, YARA and XGBoost marks, and the LinkedIn mark via Devicon (MIT). Details in <a href="assets/LICENSES/ICONS.md">assets/LICENSES</a>.</sub>
