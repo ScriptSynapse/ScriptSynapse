@@ -1,20 +1,35 @@
-# 💫 About Me:
-🔭 **I’m currently working on:** AI-powered Cybersecurity projects, Full-Stack Web Applications, and Open Source contributions.<br><br>👯 **I’m looking to collaborate on:** Cybersecurity, AI/ML, DevSecOps, and Full-Stack development projects.<br><br>🤝 **I’m looking for help with:** Cloud Security, Advanced Malware Analysis, Reverse Engineering, and Large-Scale System Design.<br><br>🌱 **I’m currently learning:** Advanced Penetration Testing, Machine Learning for Cybersecurity, Cloud Security (AWS), Docker, Kubernetes, and Secure Software Development.<br><br>💬 **Ask me about:** Python, Cybersecurity, Penetration Testing, AI/ML, Flask, React, Git, Linux, and CTFs.<br><br>⚡ **Fun fact:** I love turning security concepts into real-world projects and I'm always building something new to learn by doing.<br>
+<div align="center">
 
+# PAULSON ALEX FERNANDES
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyb3r.paulson) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulson-alex-fernandes-754710378/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulsonfernandes06@gmail.com) 
+**Cybersecurity · Digital Forensics · AI/ML Security**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+*I build security tools that turn complex technical data into actionable insight.*
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ScriptSynapse&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ScriptSynapse&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ScriptSynapse&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="assets/hero.svg?v=1" alt="Animated hero introduction" width="100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="assets/about-life.svg?v=1" alt="About, capabilities and rotating interests" width="100%" />
 
----
-[![](https://komarev.com/ghpvc/?username=ScriptSynapse&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="assets/stack.svg?v=1" alt="Technology stack orbit diagram" width="100%" />
+
+<img src="assets/id-dashboard.svg?v=1" alt="Animated hanging profile ID card" width="100%" />
+
+<img src="assets/connect.svg?v=1" alt="Pointing portrait and contact cards" width="100%" />
+
+</div>
+
+## Selected projects
+
+| Project | What it does | Repository |
+|---|---|---|
+| **AI Malware Detector** | Machine-learning-assisted static PE analysis for classifying potentially malicious Windows executables. | [View repository](https://github.com/ScriptSynapse/AI-Malware-Detector) |
+| **HoneyWatch** | SSH honeypot telemetry and attacker-session analysis for defensive threat intelligence. | [View repository](https://github.com/ScriptSynapse/HoneyWatch-SSH-Threat-Intelligence-Honeypot) |
+| **Forge-X** | Digital forensics project focused on case workflows, evidence integrity and chain-of-custody tracking. | [View repository](https://github.com/ScriptSynapse/Forge-X) |
+
+## Connect
+
+- **GitHub:** [github.com/ScriptSynapse](https://github.com/ScriptSynapse)
+- **LinkedIn:** [Paulson Alex Fernandes](https://www.linkedin.com/in/paulson-alex-fernandes-754710378)
+- **Portfolio:** [portfolio.paulsonfernandes.tech](https://portfolio.paulsonfernandes.tech)
+
+> YouTube, Instagram and Topmate links are omitted because no URLs were supplied. No follower counts, contribution totals, repository metrics or other unverified statistics are shown.
